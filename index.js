@@ -225,26 +225,26 @@ function ResponsiveDrawer( { window, products }) {
       switch (`${val}`) {
         case '1873':
           return 'suv';
-        case '1874':
+        case '1765874':
           return 'mpv';
-        case '1875':
+        case '1335875':
           return 'sedan';
-        case '1876':
+        case '451876':
           return 'hatchback';
-        case '1877':
+        case '18543277':
           return 'crossover';
-        case '1878':
+        case '1873458':
           return 'coupe';
-          case '1879':
-            return 'truck';
-          case '1880':
-            return 'bus';
-          case '1881':
-            return 'convertible';
-          case '1882':
+        case '1842479':
+          return 'truck';
+        case '1835670':
+          return 'bus';
+        case '13467881':
+          return 'convertible';
+        case '45661882':
             return 'pickup';
-          case 'true':
-            return 'financeable';
+        case 'true':
+          return 'financeable';
         default:
           break;
       }
